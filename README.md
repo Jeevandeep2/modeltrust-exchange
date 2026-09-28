@@ -1,6 +1,15 @@
+<!--
+────────────────────────────────────────────────────────────────────────────
+OPTIONAL ANIMATED WAVE BANNER (disabled)
+The capsule-render service was returning errors, so this README uses only
+guaranteed-reliable GitHub animations (typing SVG + Mermaid).
+If capsule-render recovers, uncomment the block below to re-enable it:
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=ModelTrust%20Exchange&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=AI%20Model%20Marketplace%20%26%20Intelligence%20Platform&descSize=17&descAlignY=55&descColor=a5b4fc" alt="Animated waving banner introducing ModelTrust Exchange — AI Model Marketplace and Intelligence Platform" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ModelTrust%20Exchange&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Animated waving banner for ModelTrust Exchange" />
 </p>
+────────────────────────────────────────────────────────────────────────────
+-->
 
 <p align="center">
   <img src="./favicon.svg" width="84" alt="ModelTrust Exchange logo — a shield representing trustworthy AI" />
@@ -429,4 +438,7 @@ Contributions, issues, and feature ideas are welcome.
 <p align="center">
   <a href="https://github.com/jeevandeep2/modeltrust-exchange"><img src="https://img.shields.io/badge/⭐_Star_Repository-F7B731?style=for-the-badge&logo=github&logoColor=black" alt="Star ModelTrust Exchange on GitHub" /></a>
   <a href="https://modeltrust-exchange.netlify.app/"><img src="https://img.shields.io/badge/🚀_Visit_Website-0EA5E9?style=for-the-badge" alt="Visit the ModelTrust Exchange website" /></a>
-  <a href="https://youtu.be/oiEfzVUysG0?si=0KZwLY1pHKbMkyzJ"><img src="ht
+  <a href="https://youtu.be/oiEfzVUysG0?si=0KZwLY1pHKbMkyzJ"><img src="https://img.shields.io/badge/🎥_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the ModelTrust Exchange demo" /></a>
+</p>
+
+<p align="center"><sup>Built with 💜 at CodeFury 2026 · Made for a world with better AI choices</sup></p>
