@@ -9,105 +9,178 @@
 Compare, evaluate, verify, test, and deploy AI models using transparent quality, cost, latency, reliability, carbon impact, and trust intelligence — all in one interface.
 
 [
+<div align="center">
 
-![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Netlify-06b6d4?style=for-the-badge)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-](https://modeltrust-exchange.netlify.app/)
-[
+<a href="https://modeltrust-exchange.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Welcome+to+ModelTrust+Exchange;Discover+AI+Models+with+Confidence;Compare.+Evaluate.+Trust.;The+Future+of+AI+Model+Discovery." alt="Typing SVG" />
+</a>
 
-![Watch Demo](https://img.shields.io/badge/🎥_Watch_Demo-YouTube-8b5cf6?style=for-the-badge)
+<br/>
 
-](https://youtu.be/oiEfzVUysG0?si=0KZwLY1pHKbMkyzJ)
-[
+<img src="https://img.shields.io/badge/AI-Model%20Marketplace-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trustworthy-AI-00C853?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeFury-2026-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Prototype-2196F3?style=for-the-badge"/>
 
-![Star Repository](https://img.shields.io/github/stars/jeevandeep2/modeltrust-exchange?style=for-the-badge&color=10b981&label=⭐+Star)
+<br/><br/>
 
-](https://github.com/jeevandeep2/modeltrust-exchange)
-[
+<h1>🧠 ModelTrust Exchange</h1>
 
-![View Source](https://img.shields.io/badge/📂_View_Source-GitHub-1e2327?style=for-the-badge)
+<h3>
+Don't just find an AI model.<br/>
+Know why you can trust it.
+</h3>
 
-](https://github.com/jeevandeep2/modeltrust-exchange)
+<p>
+<b>ModelTrust Exchange</b> is an AI Model Marketplace & Intelligence Platform
+designed to help users discover, understand, compare, evaluate and select
+AI models through one unified experience.
+</p>
 
+<br/>
 
+<a href="https://modeltrust-exchange.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-6C63FF?style=for-the-badge"/>
+</a>
 
-![React](https://img.shields.io/badge/React-18-06b6d4?logo=react&logoColor=white)
+<a href="https://youtu.be/oiEfzVUysG0?si=0KZwLY1pHKbMkyzJ">
+<img src="https://img.shields.io/badge/▶_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
+<a href="https://github.com/jeevandeep2/modeltrust-exchange">
+<img src="https://img.shields.io/badge/⭐_Star-Repository-yellow?style=for-the-badge&logo=github"/>
+</a>
 
+<br/><br/>
 
-
-![Redux Toolkit](https://img.shields.io/badge/State-Redux_Toolkit-764abc?logo=redux&logoColor=white)
-
-
-
-
-![React Router](https://img.shields.io/badge/Routing-React_Router-8b5cf6?logo=reactrouter&logoColor=white)
-
-
-
-
-![Recharts](https://img.shields.io/badge/Charts-Recharts-10b981)
-
-
-
-
-![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38bdf8?logo=tailwindcss&logoColor=white)
-
-
-
-
-![Vite](https://img.shields.io/badge/Build-Vite-b73bfe?logo=vite&logoColor=white)
-
-
-
-
-![Netlify](https://img.shields.io/badge/Deployed_on-Netlify-00c7b7?logo=netlify&logoColor=white)
-
-
+<img src="https://komarev.com/ghpvc/?username=jeevandeep2&label=Repository%20Visitors&color=6C63FF&style=flat-square" alt="Visitors"/>
 
 </div>
 
 ---
 
-## 💭 Why ModelTrust Exchange?
+# 🌐 Experience ModelTrust Exchange
 
-AI has never had more choices. New models ship every week, each claiming to be faster, cheaper, or smarter than the last. But more choices create a new problem: **which model should you actually trust for your use case?**
+<div align="center">
 
-Benchmarks are scattered. Pricing pages hide the real cost per task. Reliability and safety claims are rarely comparable side by side. Developers end up choosing models by reputation or guesswork instead of evidence.
+### 🚀 Explore the Platform
 
-ModelTrust Exchange is a concept and prototype for what a more transparent model-selection experience could look like — one place to discover, compare, evaluate, and understand AI models before committing to one.
+<a href="https://modeltrust-exchange.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_PLATFORM-6C63FF?style=for-the-badge"/>
+</a>
 
----
+<br/><br/>
 
-## ⚡ What is ModelTrust Exchange?
+**Live Website**
 
-**ModelTrust Exchange** is a frontend prototype for an **AI Model Marketplace & Intelligence Platform**. It's built as a fully interactive React single-page application that simulates the end-to-end experience of discovering, comparing, and evaluating AI models through a unified dashboard.
+https://modeltrust-exchange.netlify.app/
 
-- **What it solves:** the friction of evaluating AI models across quality, cost, latency, reliability, safety, and trust factors that are normally spread across many disconnected sources.
-- **Who it's for:** developers, AI practitioners, and teams exploring how a trust-centric model marketplace could work.
-- **What makes it interesting:** every workflow — from a guided model-matching wizard to a benchmark lab to a trust-score rubric — is fully clickable and interactive, not just a static mockup.
-
-> ⚠️ **Transparency note:** ModelTrust Exchange runs entirely on simulated, client-side demo data. Model listings, benchmark scores, chat responses, and trust scores are illustrative fixtures built for this prototype — there is no live backend, no real model inference, and no production API behind it.
+</div>
 
 ---
 
-## ✨ Key Features
+# 💡 Why ModelTrust Exchange?
 
-| Area | What it does |
-|---|---|
-| 🔎 **Model Explorer & Marketplace** | Browse a curated catalog of AI models with searchable, filterable listings and provider profiles |
-| 🎯 **TrustMatch** | A guided wizard that recommends models based on your stated use case and priorities |
-| ⚖️ **Compare Models** | Side-by-side comparison of up to 5 models across quality, cost, latency, and reliability |
-| 🧪 **Playground** | Interactive chat-style testing surface for trying out model responses |
-| 🛡️ **Trust Center** | An 8-factor trust score rubric — including benchmark reproducibility, documentation quality, security posture, license clarity, and dataset transparency |
-| 📊 **Benchmark Lab** | Run simulated model evaluations and view community benchmark leaderboards |
-| 🔀 **TrustRouter** | A concept for smart, rule-based routing across multiple models |
-| 📈 **Model Health** | A dashboard for provider infrastructure availability and uptime status |
-| 🔐 **Data Shield** | A client-side PII-scrubbing demo that heuristically detects and masks sensitive data before it's "sent" |
-| 🏗️ **Creator Studio** | A concept workspace for submitting models, tracking verification, revenue, and analytics |
-| ⚙️ **Deployments, API Keys & Usage** | Screens for managing simulated API credentials, deployments, and usage quotas |
-| 👥 **Workspaces & Admin** | Team workspace and admin-configuration surfaces for a multi-user concept |
+The AI ecosystem is expanding at an incredible pace.
+
+Every day, new models appear with different:
+
+- ⚡ Capabilities
+- 🎯 Use cases
+- 💰 Costs
+- 🚀 Performance characteristics
+- 🔐 Privacy considerations
+- 🛡️ Trust factors
+- 📊 Evaluation criteria
+
+And that creates a new problem:
+
+> **With thousands of AI models available, how do you decide which one is actually suitable for your needs?**
+
+ModelTrust Exchange explores a unified solution for discovering, understanding, comparing and evaluating AI models before making a decision.
 
 ---
 
-## 🧠 The Core Concept
+# 🧠 What is ModelTrust Exchange?
+
+**ModelTrust Exchange** is an AI Model Marketplace & Intelligence Platform that brings AI model discovery and evaluation into a single, user-friendly experience.
+
+Instead of jumping between different platforms, documentation pages and model providers, users can explore AI models through a centralized interface.
+
+### The idea is simple:
+
+<div align="center">
+
+**DISCOVER** 🔎  
+↓  
+**UNDERSTAND** 🧠  
+↓  
+**COMPARE** ⚖️  
+↓  
+**EVALUATE** 🛡️  
+↓  
+**CHOOSE** 🎯  
+↓  
+**ACCESS** 🚀
+
+</div>
+
+---
+
+# ✨ Core Features
+
+<div align="center">
+
+| 🔎 Discovery | ⚖️ Comparison | 🛡️ Trust |
+|:---:|:---:|:---:|
+| Explore AI Models | Compare Models | Trust Evaluation |
+| Discover Capabilities | Compare Characteristics | Verification Concepts |
+| Find Suitable Models | Understand Differences | Transparency |
+
+| 🤖 Intelligence | 🔐 Privacy | 🎯 Selection |
+|:---:|:---:|:---:|
+| AI Recommendations | Data Protection Concepts | Use-Case Matching |
+| Model Insights | Privacy Awareness | Informed Decisions |
+| Intelligent Discovery | Trust Considerations | Model Selection |
+
+</div>
+
+---
+
+# 🔎 AI Model Discovery
+
+Explore AI models through a unified marketplace-style experience.
+
+Instead of searching across multiple sources, ModelTrust Exchange aims to make model discovery:
+
+- Faster
+- More organized
+- Easier to understand
+- More transparent
+
+---
+
+# ⚖️ Model Comparison
+
+Choosing an AI model should not be based on popularity alone.
+
+ModelTrust Exchange introduces a comparison-oriented approach where users can understand differences between available models and identify the characteristics that matter for their use case.
+
+```text
+              MODEL A
+                 │
+        ┌────────┼────────┐
+        │        │        │
+     Quality   Cost     Speed
+        │        │        │
+        └────────┼────────┘
+                 │
+                 ▼
+             Compare
+                 │
+                 ▼
+              MODEL B
